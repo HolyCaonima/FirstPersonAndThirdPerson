@@ -32,6 +32,8 @@ removes the distinguished perspective. This suggests a structural asymmetry: fir
 
 The unresolved step is the distinction between **extrinsic pointing** and **intrinsic perspective**. An external mathematician can mark a node \(p\) in a graph without creating experience. A theory of subjectivity therefore needs a purely relational criterion for when a perspective is instantiated by the system itself rather than imposed by an observer.
 
+A current refinement is that **what-it-is-like may itself be a perspective-indexed relational quantity**. In that picture, first-person structure is fundamental, phenomenal character is induced relative to an intrinsic perspective, and the idea of qualia as a separate private substance may be a later reification performed by intelligent self-modeling.
+
 ## Important separation
 
 **Intelligence and subjective experience are separate axes.** Intelligence concerns computation, modeling, prediction, control, self-description, and reportability. Subjective experience, if this framework is on the right track, concerns intrinsic presentation or intrinsic perspectival structure. A system could in principle have experience without enough intelligence to model or report that experience; conversely, high intelligence alone does not establish experience.
@@ -39,6 +41,7 @@ The unresolved step is the distinction between **extrinsic pointing** and **intr
 ## Stage notes
 
 - [Stage 01 — Relational / Perspectival Meta-Structure](notes/2026-08-12-stage-01.md)
+- [Stage 02 — Phenomenal Character as Perspective-Indexed Relation](notes/2026-08-12-stage-02-phenomenal-relations.md)
 
 ## Status
 
